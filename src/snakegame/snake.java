@@ -4,7 +4,7 @@ package snakegame;
 
 import javax.swing.JFrame;
 
-
+//main
 public class snake extends JFrame{
 	public static void main(String []args){
 		JFrame frame = new JFrame();

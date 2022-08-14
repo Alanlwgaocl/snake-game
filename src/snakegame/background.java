@@ -56,7 +56,7 @@ public class background extends JPanel implements KeyListener, ActionListener{
 	
 	
 	Clip clip;
-	
+	//constructor
 	public background() {
 		initsnake();
 		this.setFocusable(true);
